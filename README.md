@@ -64,7 +64,8 @@ portfolio: https://kartik-app-five.vercel.app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kartiksonani4216&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartiksonani4216&show_icons=true&theme=vue" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksonani4216&theme=vue" />
 </p>
 
 ## 📫 Connect with Me
