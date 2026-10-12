@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartiksonani4216&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kartiksonani4216&label=Views&color=blue&style=plastic&style=for-the-badge" />
 </p>
 
 ---
@@ -64,8 +64,8 @@ portfolio: https://kartik-app-five.vercel.app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartiksonani4216&show_icons=true&theme=vue" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksonani4216&theme=vue" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartiksonani4216&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiksonani4216&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakNum=FBBF24&currStreakLabel=A78BFA&sideNums=F472B6&sideLabels=F472B6&dates=7DD3FC&stroke=30363D" />
 </p>
 
 ## 📫 Connect with Me
